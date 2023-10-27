@@ -6,6 +6,7 @@ public class prueba1 {
 		//esto es una prueba
 		//seguimos con la prueba
 		//otra mas
+		//una mas.
 	}
 
 }
